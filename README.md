@@ -1,4 +1,4 @@
-# 🇮🇳 Marathi Literature Analyzer — मराठी साहित्य विश्लेषक
+# Marathi Literature Analyzer — मराठी साहित्य विश्लेषक
 
 > AI-powered deep reading of Marathi proverbs, ovis & sentences — literary analysis, cross-language echoes & geographic origins across Maharashtra.
 
