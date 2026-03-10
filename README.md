@@ -26,14 +26,14 @@ Finds equivalent proverbs in **4 languages**:
 
 Each with translation and similarity classification (near-identical / thematic / conceptual).
 
-### 🗺️ Geography of Wisdom
+### Geography of Wisdom
 - Interactive **SVG map of Maharashtra** with all 34+ districts
 - Highlights the **primary origin district** with animated pulse
 - Shows **regional variants** and cultural context per district
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -45,7 +45,7 @@ Each with translation and similarity classification (near-identical / thematic /
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 ### Prerequisites
 - Node.js v18+
@@ -72,7 +72,7 @@ Open [http://localhost:5173](http://localhost:5173) 🎉
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 marathi-analyzer/
@@ -117,5 +117,5 @@ MIT License — free to use, modify and distribute.
 
 <div align="center">
   <p>Made with ❤️ for Marathi literature</p>
-  <p><strong>POWERED BY GROQ AI ◆ MARATHI LITERARY INTELLIGENCE</strong></p>
+  <p><strong>◆ MARATHI LITERARY INTELLIGENCE</strong></p>
 </div>
