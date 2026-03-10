@@ -87,7 +87,7 @@ marathi-analyzer/
 ```
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > <img width="701" height="909" alt="image" src="https://github.com/user-attachments/assets/1a386c8e-0f12-4ebe-af74-d19aa18164ed" />
 
@@ -109,7 +109,7 @@ marathi-analyzer/
 
 ---
 
-## 📄 License
+## License
 
 MIT License — free to use, modify and distribute.
 
