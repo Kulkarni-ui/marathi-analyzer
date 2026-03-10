@@ -1,8 +1,11 @@
 # Marathi Literature Analyzer — मराठी साहित्य विश्लेषक
 
 > AI-powered deep reading of Marathi proverbs, ovis & sentences — literary analysis, cross-language echoes & geographic origins across Maharashtra.
+---
 
 **Live Demo → [marathi-analyzer-c1rycifhz.vercel.app](https://marathi-analyzer-c1rycifhz.vercel.app)**
+
+---
 
 ---
 
@@ -19,10 +22,10 @@
 
 ### Cross-Language Echo
 Finds equivalent proverbs in **4 languages**:
-- 🇮🇳 Hindi
-- 🇮🇳 Tamil
-- 🇬🇧 English
-- 🇰🇪 Swahili
+- Hindi
+- Tamil
+- English
+- Swahili
 
 Each with translation and similarity classification (near-identical / thematic / conceptual).
 
@@ -68,7 +71,7 @@ echo "VITE_GROQ_API_KEY=your_key_here" > .env
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) 🎉
+Open [http://localhost:5173](http://localhost:5173) 
 
 ---
 
